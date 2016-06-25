@@ -1,3 +1,3 @@
 # demo
 
-Running Spring boot project using Vaadin UI.
+Running Vaadin UI using Spring boot project.
